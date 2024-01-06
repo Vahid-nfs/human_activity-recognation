@@ -1,0 +1,13 @@
+classification report for Smartwatch of CGFA
+kappa score : 0.9585309443028657
+recall score : 0.9767128867697779
+f1 score : 0.9792648419061314
+precision score : 0.9819044459809902
+              precision    recall  f1-score   support
+
+           0       0.98      0.96      0.97    196867
+           1       0.99      0.99      0.99    501105
+
+    accuracy                           0.98    697972
+   macro avg       0.98      0.98      0.98    697972
+weighted avg       0.98      0.98      0.98    697972

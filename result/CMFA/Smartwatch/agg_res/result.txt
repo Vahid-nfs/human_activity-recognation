@@ -1,0 +1,13 @@
+classification report for Smartwatch of CMFA
+kappa score : 0.9276929026208662
+recall score : 0.9648063127752572
+f1 score : 0.9638462866464896
+precision score : 0.9628989618630704
+              precision    recall  f1-score   support
+
+           0       0.94      0.95      0.95    196867
+           1       0.98      0.98      0.98    501105
+
+    accuracy                           0.97    697972
+   macro avg       0.96      0.96      0.96    697972
+weighted avg       0.97      0.97      0.97    697972

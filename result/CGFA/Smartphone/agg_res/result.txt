@@ -1,0 +1,13 @@
+classification report for Smartphone of CGFA
+kappa score : 0.907096714682662
+recall score : 0.9461629876995297
+f1 score : 0.9535350679521054
+precision score : 0.9617194581140355
+              precision    recall  f1-score   support
+
+           0       0.96      0.91      0.93    168982
+           1       0.96      0.98      0.97    430958
+
+    accuracy                           0.96    599940
+   macro avg       0.96      0.95      0.95    599940
+weighted avg       0.96      0.96      0.96    599940
